@@ -19,7 +19,7 @@ const educations: Education[] = [
     location: 'Phagwara, Punjab',
     period: '2022 - 2026',
     description: 'Specializing in full-stack web development with a focus on modern JavaScript frameworks and cloud technologies. Actively participated in various hackathons and technical events.',
-    grade: 'CGPA: 7.5'
+    grade: 'CGPA: 7.70'
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ const educations: Education[] = [
     location: 'Hodal, Haryana',
     period: '2019 - 2020',
     description: 'Demonstrated strong academic performance with consistent excellence in core subjects.',
-    grade: 'Percentage: 83%'
+    grade: 'Percentage: 82.4%'
   }
 ];
 
